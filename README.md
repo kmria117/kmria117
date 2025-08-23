@@ -21,6 +21,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kmria117&show_icons=true&theme=tokyonight)  
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmria117&layout=compact&theme=tokyonight)
+
+
+---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kameria-kame-2b1750373/)  
