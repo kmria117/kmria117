@@ -1,4 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Kameria
+📍 Based in Indonesia | 🎓 Sistem Informasi | 💻 Aspiring Data Analyst  
+
+---
+
+## 🚀 Tentang Saya
+- 🔹 Teliti & cepat dalam pekerjaan **Data Entry**  
+- 🔹 Terbiasa menggunakan **Microsoft Excel & Google Sheets**  
+- 🔹 Sedang belajar menuju **Data Analyst** (SQL, Python, Power BI)  
+- 🔹 Tertarik dengan **Data, Bisnis, dan Teknologi**  
+
+---
+
+## 🛠️ Skills
+- **Data Entry**: Excel, Google Sheets, Data Cleaning  
+- **Analisis Data (Belajar)**: SQL, Python (Pandas), Power BI  
+- **Tools**: Microsoft Office, GitHub, Google Workspace  
+
+---
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kmria117&show_icons=true&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://www.linkedin.com/in/kameria-kame-2b1750373/)  
+[![Gmail](kameriakame0@gmail.com)  
+
 
 <!--
 **kmria117/kmria117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
